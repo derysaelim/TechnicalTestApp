@@ -15,6 +15,23 @@ This project is part of the technical test for the Android Developer Intern posi
 - [Coil Image] - To load and display images.
 - [Navigation] - To handle in-app navigation
 
+## Project Structure
+```
+📂technicaltestapp
+ ┣ 📂data
+ ┃ ┗ 📂local
+ ┣ 📂model
+ ┣ 📂ui
+ ┃ ┣ 📂navigation
+ ┃ ┣ 📂presentation
+ ┃ ┃ ┣ 📂login
+ ┃ ┃ ┣ 📂onboarding
+ ┃ ┃ ┣ 📂student
+ ┃ ┗ 📂theme
+ ┣ 📂utils
+ ┗ 📜MainActivity.kt
+```
+
 ## Screenshots
 
 | Screen | Screenshot |
@@ -32,7 +49,7 @@ This project is part of the technical test for the Android Developer Intern posi
 - Target SDK: 35
 - Compile SDK: 35
 
-## Instalation
+## Installation
 1. Clone Repository
 ```sh
 https://github.com/derysaelim/TechnicalTestApp.git
