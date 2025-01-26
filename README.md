@@ -58,3 +58,6 @@ https://github.com/derysaelim/TechnicalTestApp.git
 - Open the project in Android Studio.
 - Sync Gradle dependencies.
 - Run the app on an emulator or physical device.
+
+## Application
+[Application Link](https://drive.google.com/drive/folders/12kJ9-pbm7ENAgjUaFIj9XuimKOGSXjY6?usp=sharing)
